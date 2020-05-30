@@ -1,5 +1,5 @@
 # revinator
-revinator is python rat.
+revinator is a python rat.
 
 revinator is made for educational purposes only. we do not accept any responsibility for damages or illegal use of this tool.
 
